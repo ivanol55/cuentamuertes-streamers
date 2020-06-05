@@ -23,7 +23,7 @@ El script de instalación se ocupará del resto.
 ## Instalación
 Descarga el repositorio posteado en esta misma página, descomprímela y entra a ella en una terminal.
 
-Una vez compruebes que cumples los requisitos mencionados en el apartado de requisitos técnicos, ejecuta `python3 installer.py` y el instalador te guiará a través de toda la información que debes darle. Cuando éste termine tendrás un cuentamuertes funcional en la dirección web en el dominio que has especificado, en http. Si quieres aplicarle https, te sugiero que eches un ojo al proyecto de [link](https://certbot.eff.org/ "Certbot"), de la Electronic Frontier Foundation.
+Una vez compruebes que cumples los requisitos mencionados en el apartado de requisitos técnicos, ejecuta `python3 installer.py` y el instalador te guiará a través de toda la información que debes darle. Cuando éste termine tendrás un cuentamuertes funcional en la dirección web en el dominio que has especificado, en http. Si quieres aplicarle https, te sugiero que eches un ojo al proyecto de [Certbot](https://certbot.eff.org/), de la Electronic Frontier Foundation.
 
 ## Manual
 
