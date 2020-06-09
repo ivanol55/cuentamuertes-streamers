@@ -54,7 +54,7 @@ replaceUser = "sed -i 's/user=REPLACE/user=" + dbUser + "/g' source/apache/backe
 os.system(replaceUser)
 replacePass = "sed -i 's/password=REPLACE/password=" + dbPassword + "/g' source/apache/backend/creds/.my.cnf"
 os.system(replacePass)
-replaceDB = "sed -i 's/database=REPLACE/database=" + dbUser + "/g' source/apache/backend/creds/.my.cnf"
+replaceDB = "sed -i 's/database=REPLACE/database=" + dbDatabase + "/g' source/apache/backend/creds/.my.cnf"
 os.system(replaceDB)
 replacePageName = "sed -i 's/name=REPLACE/name=" + pageName + "/g' source/apache/backend/creds/.my.cnf"
 os.system(replacePageName)
