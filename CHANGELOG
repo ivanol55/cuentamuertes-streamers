@@ -1,0 +1,6 @@
+UPDATE 1.1
+- Añadida gráfica de progresión de muertes.
+- Añadidas muertes en la sesión actual y la anterior en la home.
+- Añadida Integración con el chatbot de streamElements.
+- Documentada la integración con el chatbot de StreamElements en el README del proyecto.
+- El instalador ahora tiene una opción de Upgrade para actualizar de una versión anterior.
